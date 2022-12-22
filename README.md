@@ -39,4 +39,4 @@ a condizione che venga mantenuta la licenza MIT e che venga citato il lavoro ori
 
 Ringraziamenti
 
-Un ringraziamento speciale va a Assistant di OpenAI per aver fornito supporto e assistenza durante lo sviluppo di questo programma.
+Un ringraziamento speciale va a Assistant di OpenAI per aver fornito supporto e assistenza durante lo sviluppo di questo programma fra cui questo file readMe (ndr).
